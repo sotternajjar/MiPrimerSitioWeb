@@ -19,6 +19,12 @@ p.fuente-net {
     color: red;
     font-size: 50px;
     font-family: 'Bebas Neue' sans-serif;
+} 
+span {
+    font-size: 1.8em;
+    color:  red;
+    font-weight: 900;
+}
 /* bebas-neue-regular - latin */
 @font-face {
     font-family: 'Bebas Neue';

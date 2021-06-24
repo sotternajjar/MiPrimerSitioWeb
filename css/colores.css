@@ -2,12 +2,18 @@
 p {
     font-size: 2em;
 }
-.color-azul ¨{
-    color:  blue
+.color-azul    {
+    color:rgb(12,102,166);
 }
-.color-verde {
-    color: rgb(0,250,0)
+.color-verde   {
+    color:rgb(0,250,0);
 }
-.color-gris ¨{
-    color: #646464
+.color-gris    {
+    color:#646464;
+}
+.color-avianca {
+    color:rgb(222,1,8);
+}
+.color-falabella {
+    color: rgb(174,220,55);
 }
